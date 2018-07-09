@@ -9,6 +9,7 @@ Contributions to this code are welcome.
 ## Ansible roles
 
 [rd-ansible-devpi-proxy](https://github.com/bbc/rd-ansible-devpi-proxy) Deploy devpi as a caching pip proxy
+[rd-ansible-refstack](https://github.com/bbc/rd-ansible-refstack) Deploy RefStack to validate OpenStack deployments
 
 ## Supporting code
 
