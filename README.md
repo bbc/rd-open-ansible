@@ -12,6 +12,8 @@ Contributions to this code are welcome.
 
 [rd-ansible-refstack](https://github.com/bbc/rd-ansible-refstack) Deploy RefStack to validate OpenStack deployments
 
+[rd-ansible-squid-install](https://github.com/bbc/rd-ansible-squid-install) Deploy a Squid in memory caching proxy.
+
 ## Supporting code
 
 [rd-ansible-remote-vagrantfile](https://github.com/bbc/rd-ansible-remote-vagrantfile) Shared test harnesses
