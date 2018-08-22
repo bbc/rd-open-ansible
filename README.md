@@ -14,6 +14,8 @@ Contributions to this code are welcome.
 
 [rd-ansible-squid-install](https://github.com/bbc/rd-ansible-squid-install) Deploy a Squid in memory caching proxy.
 
+[rd-ansible-browser-linux](https://github.com/bbc/rd-ansible-browser-linux) Install a lightweight GUI onto the server version of Xenial or Bionic. Then automatically deploy some web browsers. Useful for monitoring windows
+
 ## Supporting code
 
 [rd-ansible-remote-vagrantfile](https://github.com/bbc/rd-ansible-remote-vagrantfile) Shared test harnesses
