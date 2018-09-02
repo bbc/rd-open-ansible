@@ -16,6 +16,8 @@ Contributions to this code are welcome.
 
 [rd-ansible-browser-linux](https://github.com/bbc/rd-ansible-browser-linux) Install a lightweight GUI onto the server version of Xenial or Bionic. Then automatically deploy some web browsers. Useful for monitoring windows
 
+[rd-ansible-user-setup](https://github.com/bbc/rd-ansible-user-setup) Add/remove users from a linux system
+
 ## Supporting code
 
 [rd-ansible-remote-vagrantfile](https://github.com/bbc/rd-ansible-remote-vagrantfile) Shared test harnesses
