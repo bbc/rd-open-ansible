@@ -18,6 +18,8 @@ Contributions to this code are welcome.
 
 [rd-ansible-user-setup](https://github.com/bbc/rd-ansible-user-setup) Add/remove users from a linux system
 
+[rd-ansible-go-install](https://github.com/bbc/rd-ansible-go-install) Install GOLANG to an Ubuntu 16 or 18 system and set up paths. 
+
 ## Supporting code
 
 [rd-ansible-remote-vagrantfile](https://github.com/bbc/rd-ansible-remote-vagrantfile) Shared test harnesses
