@@ -22,6 +22,8 @@ Contributions to this code are welcome.
 
 [rd-ansible-ntp](https://github.com/bbc/rd-ansible-ntp) Install and configure NTP client.  
 
+[rd-ansible-hosts](https://github.com/bbc/rd-ansible-hosts) Configure the hostname of a client and set up hosts file. 
+
 ## Supporting code
 
 [rd-ansible-remote-vagrantfile](https://github.com/bbc/rd-ansible-remote-vagrantfile) Shared test harnesses
