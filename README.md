@@ -24,6 +24,8 @@ Contributions to this code are welcome.
 
 [rd-ansible-hosts](https://github.com/bbc/rd-ansible-hosts) Configure the hostname of a client and set up hosts file. 
 
+[rd-ansible-zfs-partition](https://github.com/bbc/rd-ansible-zfs-partition) Create or manage ZFS partitions on a disk.
+
 ## Supporting code
 
 [rd-ansible-remote-vagrantfile](https://github.com/bbc/rd-ansible-remote-vagrantfile) Shared test harnesses
