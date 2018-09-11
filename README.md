@@ -20,6 +20,8 @@ Contributions to this code are welcome.
 
 [rd-ansible-go-install](https://github.com/bbc/rd-ansible-go-install) Install GOLANG to an Ubuntu 16 or 18 system and set up paths. 
 
+[rd-ansible-ntp](https://github.com/bbc/rd-ansible-ntp) Install and configure NTP client.  
+
 ## Supporting code
 
 [rd-ansible-remote-vagrantfile](https://github.com/bbc/rd-ansible-remote-vagrantfile) Shared test harnesses
